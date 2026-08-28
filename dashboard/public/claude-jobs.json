@@ -1,12 +1,32 @@
 {
-  "lastUpdated": "2026-08-27T13:54:30.349341+00:00",
-  "totalJobs": 103,
+  "lastUpdated": "2026-08-28T15:06:29.274922+00:00",
+  "totalJobs": 105,
   "sources": [
     "Anthropic",
     "HackerNews",
     "WeWorkRemotely"
   ],
   "jobs": [
+    {
+      "id": "anth-5407337008",
+      "company": "Anthropic",
+      "position": "Product Manager, Beneficial Deployments (Labs)",
+      "location": "San Francisco, CA | New York City, NY",
+      "remote": false,
+      "salary": "",
+      "description": "Claude has had commercial impact, but there’s significantly more that frontier AI can do outside of general use cases. Some of the largest opportunities: a step change in health, education, and economic opportunity for the people and institutions the technology would otherwise reach last, sit...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5407337008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5407337008",
+      "postedAt": "2026-08-27T15:48:13-04:00",
+      "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
     {
       "id": "anth-5392054008",
       "company": "Anthropic",
@@ -2093,6 +2113,28 @@
       "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5096878008",
       "postedAt": "2026-01-26T16:58:37-05:00",
       "tags": [
+        "Rust",
+        "AWS",
+        "Claude Code",
+        "Anthropic"
+      ],
+      "companyIcon": "https://www.anthropic.com/favicon.ico"
+    },
+    {
+      "id": "anth-5074908008",
+      "company": "Anthropic",
+      "position": "Staff+ Software Engineer, Safeguards Infrastructure ",
+      "location": "London, UK",
+      "remote": false,
+      "salary": "",
+      "description": "We are looking for software engineers to help build the foundational pieces for safety, oversight and intervention mechanisms of our AI systems. As a software engineer on the Safeguards team, you will work to monitor models, prevent misuse, and ensure user well-being. This role will focus on...",
+      "applyUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074908008",
+      "source": "Anthropic",
+      "sourceUrl": "https://job-boards.greenhouse.io/anthropic/jobs/5074908008",
+      "postedAt": "2026-01-21T12:42:00-05:00",
+      "tags": [
+        "TypeScript",
+        "Python",
         "Rust",
         "AWS",
         "Claude Code",
